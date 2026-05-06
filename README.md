@@ -22,9 +22,10 @@ graph TD
     D --> F["千人千面避坑方案"]
     E --> G["雪影信用评分体系"]
     F --> G
+```
 # Snow-Shadow-MiMo
 AI-driven Skiing Ecosystem powered by Xiaomi MiMo V2.5.
-```
+
 
 ## 🚀 核心功能模块
 * AI 灵影 (Visual Audit): 基于视频流的 24 关键点骨架分析，量化评估入弯角度、稳定性及立刃效果。
